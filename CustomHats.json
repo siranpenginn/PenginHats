@@ -26,4 +26,14 @@
 	"resource": "hyokkorihankurur_adaptive.png",
 	"climbresource": "hyokkorihankurur_climb_adaptive.png",
 	"adaptive": true
+},
+{
+	"name": "ばくはつしそう",
+	"author": "何か知らんペンギン",
+	"condition": "None",
+	"package": "PenguinHats",
+	"resource": "bakuhatusisou_adaptive_bounce.png",
+	"climbresource": "bakuhatusisou_climb_adaptive.png",
+	"bounce": true,
+	"adaptive": true
 }
