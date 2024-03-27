@@ -4,7 +4,7 @@
 	"condition": "None",
 	"package": "PenguinHats",
 	"resource": "kyuukurarin_adaptive_bounce.png",
-	"climbresource": "帽子の_climb用の画像名.png",
+	"climbresource": "kyuukurarin_climb.png",
 	"bounce": true,
 	"adaptive": true
 }
