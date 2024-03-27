@@ -7,4 +7,14 @@
 	"climbresource": "kyuukurarin_climb.png",
 	"bounce": true,
 	"adaptive": true
+},
+{
+	"name": "かんぺきなぼうぎょ",
+	"author": "何か知らんペンギン",
+	"condition": "None",
+	"package": "PenguinHats",
+	"resource": "kanpekinabougyo_adaptive_bounce",
+	"climbresource": "kanpekinabougyo_climb_adaptive",
+	"bounce": true,
+	"adaptive": true
 }
