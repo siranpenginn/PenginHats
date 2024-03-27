@@ -17,4 +17,13 @@
 	"climbresource": "kanpekinabougyo_climb_adaptive",
 	"bounce": true,
 	"adaptive": true
+},
+{
+	"name": "ひょっこりはんクルー",
+	"author": "何か知らんペンギン",
+	"condition": "None",
+	"package": "PenguinHats",
+	"resource": "hyokkorihankurur_adaptive.png",
+	"climbresource": "hyokkorihankurur_climb_adaptive.png",
+	"adaptive": true
 }
