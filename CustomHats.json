@@ -1,0 +1,10 @@
+{
+	"name": "きゅうくらりん",
+	"author": "何か知らんペンギン",
+	"condition": "None",
+	"package": "PenguinHats",
+	"resource": "kyuukurarin_adaptive_bounce.png",
+	"climbresource": "帽子の_climb用の画像名.png",
+	"bounce": true,
+	"adaptive": true
+}
