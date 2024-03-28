@@ -33,6 +33,7 @@
 	"condition": "None",
 	"package": "PenguinHats",
 	"resource": "bakuhatusisou_adaptive_bounce.png",
+　　　　"flipresource": "bakuhatusisou_flip_adaptive.png",
 	"climbresource": "bakuhatusisou_climb_adaptive.png",
 	"bounce": true,
 	"adaptive": true
