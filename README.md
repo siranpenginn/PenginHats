@@ -15,4 +15,4 @@ Among Usのmodのカスタムハットとしてmodへ追加する場合、連絡
 ・discord   [ペンギンのハット置き場](https://discord.gg/RFcWb3eKeR)  
 ・X(旧Twitter)   [@sirannpennginn](https://twitter.com/sirannpennginn)  
 ハットのリクエストも上記のプラットフォームに連絡ください。  
-確実ではないですが、気が向いたら参考に作るかもしれません。
+確実ではないですが、気が向いたら参考に作るかもしれません
