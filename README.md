@@ -1,4 +1,4 @@
-# PenguinHats
+# PenginHats
 AmongUsMOD向けのハットリポジトリです。  
 当ハット画像はほぼすべて私(何か知らんペンギン)が著作権を持っています。
 
